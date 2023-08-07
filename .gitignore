@@ -1,0 +1,8 @@
+.env
+.vscode
+
+**/tests
+**/tmp
+**/docs
+**/vendor
+**/.idea
